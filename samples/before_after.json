@@ -1,0 +1,27 @@
+[
+  {
+    "original": "John Doe",
+    "anonymized": "[NAME]",
+    "entity_type": "PERSON"
+  },
+  {
+    "original": "john.doe@example.com",
+    "anonymized": "[EMAIL]",
+    "entity_type": "EMAIL_ADDRESS"
+  },
+  {
+    "original": "(555) 123-4567",
+    "anonymized": "[PHONE]",
+    "entity_type": "PHONE_NUMBER"
+  },
+  {
+    "original": "linkedin.com/in/johndoe123",
+    "anonymized": "[URL]",
+    "entity_type": "URL"
+  },
+  {
+    "original": "San Francisco, CA",
+    "anonymized": "[LOCATION]",
+    "entity_type": "LOCATION"
+  }
+]

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/raw/*
+!data/raw/sample_resume.txt
+data/anonymized/*
+!data/anonymized/sample_resume_anonymized.txt

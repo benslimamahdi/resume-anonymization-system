@@ -1,0 +1,25 @@
+[NAME]
+[LOCATION]
+Phone: [PHONE]
+Email: [EMAIL]
+LinkedIn: [URL]
+
+Summary
+Received a Bachelor of Science in Computer Science from University of Illinois in [DATE].
+Experienced Software Engineer with a passion for privacy and security.
+
+Experience
+Software Engineer | Tech Corp | [LOCATION] | [DATE] - Present
+- Developed a scalable API using Python and Django.
+- Collaborated with [NAME] ([EMAIL]) on the checkout module.
+
+Education
+Bachelor of Science in Computer Science
+University of Illinois, Urbana-Champaign
+Graduated: [DATE]
+
+References
+Available upon request. Contact:
+[NAME]
+Phone: [PHONE]
+Email: [EMAIL]
